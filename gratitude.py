@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 """Create a gratitude journal directory, and then year and month subdirectories. 
 If they already exist, create a new day file in the appropriate place 
